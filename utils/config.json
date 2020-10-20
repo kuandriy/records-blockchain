@@ -1,0 +1,7 @@
+{
+    "chain" : {
+        "errors" : {
+            "emptyChain": "Block chain is empty"
+        }
+    }
+}
